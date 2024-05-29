@@ -4,7 +4,7 @@
 
 ## Data
 ### Corrected Time of Observation File
-This file ([Download Here]((data/KoSO_Cak_corrected_Tobs_v1.0.csv))) contains following information
+This file (CSV: [Download Here](data/KoSO_Cak_corrected_Tobs_v1.0.csv); TXT:CSV: [Download Here](data/KoSO_Cak_corrected_Tobs_v1.0.txt)) contains following information
 - **Col 1**: Filename as stored in KoSO archive, It may varies from one version to another.
 - **Col 2**: Corrected Time of observation (Tobs)
 - **Col 3**: Flag, specifying the correctness of Tobs _(Correct 0; Incorrect 1; Unknown -1; Bad 2)_. Here, Bad implies that the data quality is too bad and our algorithm has failed to get the Tobs.
