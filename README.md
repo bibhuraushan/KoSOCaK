@@ -1,6 +1,8 @@
 # Newly Calibarated Archive Information and data from Kodaikanal Solar Observatory (KoSO).
 ---
 
+[![DOI](https://zenodo.org/badge/807700419.svg)](https://doi.org/10.5281/zenodo.14171638)
+
 ## Information
 ---
 
